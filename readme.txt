@@ -7,3 +7,4 @@ Git tracks changes.
 14855
 5555555
 Creating a new branch is quick.
+Creating a new branch is quick AND simple.
